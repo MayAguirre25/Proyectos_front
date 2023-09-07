@@ -1,0 +1,29 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto:wght@100&display=swap');
+
+body{
+    background-color: rgb(10, 10, 0);
+}
+h1{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+    font-size: 20px;
+    color: #CC0000;
+
+}
+a:hover {
+    background-color: #CC0000;
+    color: #FFF;
+}
+a:visited {
+    color: #36a360;
+  }
